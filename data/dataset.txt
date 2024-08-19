@@ -1,0 +1,10 @@
+Jeff Bezos          ;Seattle        ;USA            ;Amazon                        ;USA            ;M         ;12/01/1964 06:30;177.00    ;16898-31481-5
+Bill Gates          ;Medina         ;USA            ;Microsoft                     ;USA            ;M         ;28/10/1955 07:45;124.00    ;20382-09844-0
+Bernard Arnault     ;Paris          ;France         ;LVMH                          ;France         ;M         ;05/03/1949 08:00;150.00    ;24528-26688-5
+Elon Musk           ;Austin         ;USA            ;Tesla, SpaceX                 ;South Africa   ;M         ;28/06/1971 09:15;151.00    ;16452-04662-9
+Larry Page          ;Palo Alto      ;USA            ;Google                        ;USA            ;M         ;26/03/1973 10:30;104.00    ;13895-32075-2
+Sergey Brin         ;Palo Alto      ;USA            ;Google                        ;Russia         ;M         ;21/08/1973 09:50;100.00    ;08100-03745-7
+Mark Zuckerberg     ;Palo Alto      ;USA            ;Facebook                      ;USA            ;M         ;14/05/1984 06:25;97.00     ;21954-31697-7
+Warren Buffett      ;Omaha          ;USA            ;Berkshire Hathaway            ;USA            ;M         ;30/08/1930 10:45;120.00    ;12027-23158-6
+Amancio Ortega      ;La Coruna      ;Spain          ;Zara                          ;Spain          ;M         ;28/03/1936 07:30;70.00     ;14910-18172-3
+Steve Ballmer       ;Hunts Point    ;USA            ;Microsoft                     ;USA            ;M         ;24/03/1956 08:15;81.00     ;04327-11946-3
