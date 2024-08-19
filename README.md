@@ -13,7 +13,7 @@ Step 2. Navigate to the project directory:
 ```bash
 cd Billionaire-Data-Management-System
 ```
-Step 3. Compile the C program (optional if using a Makefile):
+Step 3. Compile the C program:
 ```bash
 cd src
 make
