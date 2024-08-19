@@ -26,7 +26,7 @@ Step 1. Run the `richmen` C program to manage and analyze billionaire data:
 ./richmen
 ```
 
-Step 2. Run the Python scripts to generate visualizations (if applicable):
+Step 2. Run the Python scripts to generate visualizations:
 ```bash
 python scripts/visualize_data.py
 ```
