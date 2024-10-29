@@ -7,7 +7,7 @@ This project focuses on managing, analyzing, and visualizing data related to glo
 
 Step 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Billionaire-Data-Management-System.git
+git clone https://github.com/ExiledPhobos/Billionaire-Data-Management-System.git
 ```
 Step 2. Navigate to the project directory:
 ```bash
